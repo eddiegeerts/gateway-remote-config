@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFECCA405",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 52.1019368,
+    "ref_longitude": 6.6383962,
+    "ref_altitude": 0,
+    "contact_email": "eddiegeerts@hotmail.com",
+    "description": "eDDies LORA test"
+  }
+}
